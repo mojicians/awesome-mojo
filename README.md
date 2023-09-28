@@ -95,13 +95,14 @@ If you want to contribute, please read [this guide](contributing.md).
 
 ### Podcasts
 
-* [Christ Lattner at Latent Space](https://www.latent.space/p/modular#details) - Doing it the Hard Way: Making the AI engine and language of the future, with Chris Lattner of Modular.
+* [Chris Lattner at Latent Space](https://www.latent.space/p/modular#details) - Doing it the Hard Way: Making the AI engine and language of the future, with Chris Lattner of Modular.
 * [Chris Lattner at AI Chat](https://podcasters.spotify.com/pod/show/aichat/episodes/Modular-CEO-Chris-Lattner-on-Raising-100M-to-Fix-AI-Infrastructure-for-Developers-e298f7r/a-aabm4a2) - Modular CEO on raising 100M to fix AI infrastructure for developers.
 * [Chris Lattner at StackOverflow](https://stackoverflow.blog/2023/09/21/mojo-the-usability-of-python-with-the-performance-of-c/) - Mojo: The usability of Python with the performance of C.
 
 ### Interviews
 
 * [Tim Davis at Unite AI](https://www.unite.ai/tim-davis-co-founder-president-of-modular-interview-series/) - Tim Davis, Co-Founder & President of Modular, Interview Series.
+* [Chris Lattner at Lex Fridman](https://youtu.be/pdJQ8iVTwj8?si=uOMGkwGH5U9Fh8Fe) - Chris Lattner discussing the Future of Programming and AI with Lex Fridman.
 
 ### Articles
 
