@@ -34,14 +34,10 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [firedis](https://github.com/igorgue/firedis) - An implementation of Redis in the Mojo programming language.
 
----
-
 ## 🛠️ Development Tools
 
 * [arch-mojo](https://github.com/Sharktheone/arch-mojo) - Script to install Mojo on ArchLinux.
 * [py2mojo](https://github.com/msaelices/py2mojo) - Automated Python to Mojo code translation.
-
----
 
 ## 🗂️ Libraries
 
@@ -62,9 +58,7 @@ If you want to contribute, please read [this guide](contributing.md).
 
 ### FFI / Interop
 
-* [mojo-libc](https://github.com/crisadamo/mojo-libc/) - Mojo's libc support
-
----
+* [mojo-libc](https://github.com/crisadamo/mojo-libc/) - Mojo's libc support.
 
 ## 📚 Resources
 
@@ -125,10 +119,8 @@ If you want to contribute, please read [this guide](contributing.md).
 * [LLVM_SYMBOLIZER_PATH fix](https://gist.github.com/trevorhobenshield/6bca58f947ad6115a113a97072df1a73) - Guide for fixing the LLVM_SYMBOLIZER_PATH error some users were reporting.
 * [mojo-learning](https://github.com/rd4com/mojo-learning) - Repos of tutorials, starting with loading a C function and running it in Mojo through sys.ffi.
 * [Installing Mojo in a Gitpod instance](https://gist.github.com/Sarctiann/5832bbc5bd581427b2365af391c505e3)
-* [Exploring Vectors in Mojo](https://alexforgerr.medium.com/exploring-vectors-in-mojo-71451165bb84) - By Alex Forger
+* [Exploring Vectors in Mojo](https://alexforgerr.medium.com/exploring-vectors-in-mojo-71451165bb84) - By Alex Forger.
 * [Getting started with Mojo](https://dev.to/jjokah/getting-started-with-mojo-4985)
-
----
 
 ## 📜 License
 
