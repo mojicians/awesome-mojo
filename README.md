@@ -28,18 +28,22 @@ If you want to contribute, please read [this guide](contributing.md).
 
 <!-- tocstop -->
 
-## Applications
+## 🖥️ Applications
 
 ### Database
 
 * [firedis](https://github.com/igorgue/firedis) - An implementation of Redis in the Mojo programming language.
 
-## Development Tools
+---
+
+## 🛠️ Development Tools
 
 * [arch-mojo](https://github.com/Sharktheone/arch-mojo) - Script to install Mojo on ArchLinux.
 * [py2mojo](https://github.com/msaelices/py2mojo) - Automated Python to Mojo code translation.
 
-## Libraries
+---
+
+## 🗂️ Libraries
 
 * [Mojo_community-lib](https://github.com/Lynet101/Mojo_community-lib) - Community based effort to create libraries/utilities in Mojo🔥.
 * [Mojo Shims](https://github.com/lsh/shims) - Utils for Mojo projects.
@@ -60,7 +64,9 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [mojo-libc](https://github.com/crisadamo/mojo-libc/) - Mojo's libc support
 
-## Resources
+---
+
+## 📚 Resources
 
 ### Official
 
@@ -95,7 +101,6 @@ If you want to contribute, please read [this guide](contributing.md).
 
 ### Podcasts
 
-
 * [Christ Lattner at Latent Space](https://www.latent.space/p/modular#details) - Doing it the Hard Way: Making the AI engine and language of the future, with Chris Lattner of Modular.
 * [Chris Lattner at AI Chat](https://podcasters.spotify.com/pod/show/aichat/episodes/Modular-CEO-Chris-Lattner-on-Raising-100M-to-Fix-AI-Infrastructure-for-Developers-e298f7r/a-aabm4a2) - Modular CEO on raising 100M to fix AI infrastructure for developers.
 * [Chris Lattner at StackOverflow](https://stackoverflow.blog/2023/09/21/mojo-the-usability-of-python-with-the-performance-of-c/) - Mojo: The usability of Python with the performance of C.
@@ -123,6 +128,8 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Exploring Vectors in Mojo](https://alexforgerr.medium.com/exploring-vectors-in-mojo-71451165bb84) - By Alex Forger
 * [Getting started with Mojo](https://dev.to/jjokah/getting-started-with-mojo-4985)
 
-## License
+---
+
+## 📜 License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
