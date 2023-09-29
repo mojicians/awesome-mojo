@@ -48,6 +48,7 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [Modular Engine](https://www.modular.com/engine) - Modular's AI inference engine.
 * [llama2.mojo](https://github.com/tairov/llama2.mojo) - Implementation of llama2.c in Mojo.
+* [Infermo](https://github.com/TilliFe/Infermo) — A compact AutoDiff Engine for Deep Learning
 * [mojograd](https://github.com/automata/mojograd) — Implementation of Karpathy's micrograd in Mojo.
 * [Micro-Mojograd](https://github.com/andresnowak/Micro-Mojograd) - Implementation of Karpathy's micrograd in Mojo.
 * [Mojo-Arrays](https://github.com/MadAlex1997/Mojo-Arrays) - Vectorized N-Dimensional Arrays in native Mojo.
