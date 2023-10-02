@@ -15,6 +15,7 @@ If you want to contribute, please read [this guide](contributing.md).
   * [AI](#ai)
   * [Data Structures](#data-structures)
   * [FFI / Interop](#ffi--interop)
+  * [Geospatial](#geospatial)
 - [Resources](#resources)
   * [Official](#official)
   * [Social Media](#social-media)
@@ -43,15 +44,17 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [Mojo_community-lib](https://github.com/Lynet101/Mojo_community-lib) - Community based effort to create libraries/utilities in Mojo🔥.
 * [Mojo Shims](https://github.com/lsh/shims) - Utils for Mojo projects.
+* [mojo-hash](https://github.com/mzaks/mojo-hash) - A collection of hash functions implemented in Mojo
 
 ### AI
 
 * [Modular Engine](https://www.modular.com/engine) - Modular's AI inference engine.
 * [llama2.mojo](https://github.com/tairov/llama2.mojo) - Implementation of llama2.c in Mojo.
-* [Infermo](https://github.com/TilliFe/Infermo) — A compact AutoDiff Engine for Deep Learning
 * [mojograd](https://github.com/automata/mojograd) — Implementation of Karpathy's micrograd in Mojo.
 * [Micro-Mojograd](https://github.com/andresnowak/Micro-Mojograd) - Implementation of Karpathy's micrograd in Mojo.
 * [Mojo-Arrays](https://github.com/MadAlex1997/Mojo-Arrays) - Vectorized N-Dimensional Arrays in native Mojo.
+* [Infermo](https://github.com/TilliFe/Infermo) — A compact AutoDiff Engine for Deep Learning
+* [EasyDel](https://github.com/erfanzar/EasyDeL/) - An OpenSource Library to make your training faster and more Optimized With cool Options for training and serving Both in Python And Mojo🔥
 
 ### Data Structures
 
@@ -60,6 +63,10 @@ If you want to contribute, please read [this guide](contributing.md).
 ### FFI / Interop
 
 * [mojo-libc](https://github.com/crisadamo/mojo-libc/) - Mojo's libc support.
+
+### Geospatial
+
+* [geo-features](https://github.com/guidorice/geo-features) - Geographic and geometric vector features
 
 ## 📚 Resources
 
