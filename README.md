@@ -54,7 +54,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Micro-Mojograd](https://github.com/andresnowak/Micro-Mojograd) - Implementation of Karpathy's micrograd in Mojo.
 * [Mojo-Arrays](https://github.com/MadAlex1997/Mojo-Arrays) - Vectorized N-Dimensional Arrays in native Mojo.
 * [Infermo](https://github.com/TilliFe/Infermo) — A compact AutoDiff Engine for Deep Learning
-* [EasyDel](https://github.com/erfanzar/EasyDeL/) - An OpenSource Library to make your training faster and more Optimized With cool Options for training and serving Both in Python And Mojo🔥
+* [EasyDeL](https://github.com/erfanzar/EasyDeL/) - An OpenSource Library to make your training faster and more Optimized With cool Options for training and serving Both in Python And Mojo🔥
 
 ### Data Structures
 
