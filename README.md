@@ -13,6 +13,7 @@ If you want to contribute, please read [this guide](contributing.md).
 - [Development tools](#development-tools)
 - [Libraries](#libraries)
   * [AI](#ai)
+  * [Date & Time](#date--time)
   * [Data Structures](#data-structures)
   * [FFI / Interop](#ffi--interop)
   * [Geospatial](#geospatial)
@@ -39,12 +40,14 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [arch-mojo](https://github.com/Sharktheone/arch-mojo) - Script to install Mojo on ArchLinux.
 * [py2mojo](https://github.com/msaelices/py2mojo) - Automated Python to Mojo code translation.
+* [MojoPkgWorkflow](https://github.com/PriNova/MojoPkgWorkflow) - Packaging Mojo🔥 via GitHub Action Script.
 
 ## 🗂️ Libraries
 
 * [Mojo_community-lib](https://github.com/Lynet101/Mojo_community-lib) - Community based effort to create libraries/utilities in Mojo🔥.
 * [Mojo Shims](https://github.com/lsh/shims) - Utils for Mojo projects.
-* [mojo-hash](https://github.com/mzaks/mojo-hash) - A collection of hash functions implemented in Mojo
+* [mojo-hash](https://github.com/mzaks/mojo-hash) - A collection of hash functions implemented in Mojo.
+* [mojo-console-style-print](https://github.com/rd4com/mojo-console-style-print) - Style the output of the console.
 
 ### AI
 
@@ -56,9 +59,15 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Infermo](https://github.com/TilliFe/Infermo) — A compact AutoDiff Engine for Deep Learning
 * [EasyDeL](https://github.com/erfanzar/EasyDeL/) - An OpenSource Library to make your training faster and more Optimized With cool Options for training and serving Both in Python And Mojo🔥
 
+### Date & Time
+
+* [mo-time](https://github.com/sa-/mo-time) - It's time for a time pkg in Mojo🔥.
+
 ### Data Structures
 
 * [Mojo-Types](https://github.com/Moosems/Mojo-Types) - Some useful types and functions for use in Mojo code.
+* [mojo-trees](https://github.com/mzaks/mojo-trees) - Experimental Tree data structures in Mojo.
+* [mojo-magiclist](https://github.com/rd4com/mojo-magiclist) - Multi-type list using mojo builtin object, with type checking.
 
 ### FFI / Interop
 
