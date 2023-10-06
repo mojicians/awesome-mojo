@@ -17,6 +17,7 @@ If you want to contribute, please read [this guide](contributing.md).
   * [Data Structures](#data-structures)
   * [FFI / Interop](#ffi--interop)
   * [Geospatial](#geospatial)
+  * [Math](#math)
 - [Resources](#resources)
   * [Official](#official)
   * [Social Media](#social-media)
@@ -75,7 +76,11 @@ If you want to contribute, please read [this guide](contributing.md).
 
 ### Geospatial
 
-* [geo-features](https://github.com/guidorice/geo-features) - Geographic and geometric vector features
+* [geo-features](https://github.com/guidorice/geo-features) - Geographic and geometric vector features.
+
+### Math
+
+* [Infrared](https://github.com/helehex/infrared) - Geometric Algebra for Mojo🔥.
 
 ## 📚 Resources
 
@@ -139,6 +144,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Installing Mojo in a Gitpod instance](https://gist.github.com/Sarctiann/5832bbc5bd581427b2365af391c505e3)
 * [Exploring Vectors in Mojo](https://alexforgerr.medium.com/exploring-vectors-in-mojo-71451165bb84) - By Alex Forger.
 * [Getting started with Mojo](https://dev.to/jjokah/getting-started-with-mojo-4985)
+* [Multi-core (parallelize) with simd](https://rd4com.github.io/mojo-learning/multi-core-parallelize-with-simd) - by rd4com.
 
 ## 📜 License
 
