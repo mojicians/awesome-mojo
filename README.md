@@ -10,6 +10,7 @@ If you want to contribute, please read [this guide](contributing.md).
 
 - [Applications](#applications)
   * [Database](#database)
+  * [Sorting](#sorting)
 - [Development tools](#development-tools)
 - [Libraries](#libraries)
   * [AI](#ai)
@@ -37,11 +38,16 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [firedis](https://github.com/igorgue/firedis) - An implementation of Redis in the Mojo programming language.
 
+### Sorting
+
+* [mojo-sort](https://github.com/mzaks/mojo-sort) - Implementation of different sorting algorithms in Mojo.
+
 ## 🛠️ Development Tools
 
 * [arch-mojo](https://github.com/Sharktheone/arch-mojo) - Script to install Mojo on ArchLinux.
 * [py2mojo](https://github.com/msaelices/py2mojo) - Automated Python to Mojo code translation.
 * [MojoPkgWorkflow](https://github.com/PriNova/MojoPkgWorkflow) - Packaging Mojo🔥 via GitHub Action Script.
+* [menv](https://github.com/mojopaa/menv) - Mojo venv.
 
 ## 🗂️ Libraries
 
@@ -114,6 +120,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Using Mojo with Docker containers](https://youtu.be/cHyYmF-RhUk?feature=shared) - By Shashank Prasanna.
 * [Getting started with the Mojo SDK](https://youtu.be/knGTSXe7ytI?feature=shared) - By Shashank Prasanna.
 * [Mojo: Full Course for Beginners](https://www.youtube.com/watch?v=5Sm9IVMet9c&ab_channel=freeCodeCamp.org) - By Elliot from freeCodeCamp.
+* [Mojo Language](https://www.youtube.com/playlist?list=PLNYey-OZwdMzvvzi7CDeebqGmMIJI0ApP) - Mojo tutorials by Active Learning.
 
 ### Podcasts
 
@@ -144,7 +151,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Installing Mojo in a Gitpod instance](https://gist.github.com/Sarctiann/5832bbc5bd581427b2365af391c505e3)
 * [Exploring Vectors in Mojo](https://alexforgerr.medium.com/exploring-vectors-in-mojo-71451165bb84) - By Alex Forger.
 * [Getting started with Mojo](https://dev.to/jjokah/getting-started-with-mojo-4985)
-* [Multi-core (parallelize) with simd](https://rd4com.github.io/mojo-learning/multi-core-parallelize-with-simd) - by rd4com.
+* [Multi-core (parallelize) with simd](https://github.com/rd4com/mojo-learning/blob/main/tutorials/multi-core-parallelize-with-simd%20.md) - by rd4com.
 
 ## 📜 License
 
