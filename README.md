@@ -121,6 +121,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Getting started with the Mojo SDK](https://youtu.be/knGTSXe7ytI?feature=shared) - By Shashank Prasanna.
 * [Mojo: Full Course for Beginners](https://www.youtube.com/watch?v=5Sm9IVMet9c&ab_channel=freeCodeCamp.org) - By Elliot from freeCodeCamp.
 * [Mojo Language](https://www.youtube.com/playlist?list=PLNYey-OZwdMzvvzi7CDeebqGmMIJI0ApP) - Mojo tutorials by Active Learning.
+* [An Introduction to Mojo](https://www.youtube.com/watch?v=pduYnTpRBLo) - By Suvash Thapaliya
 
 ### Podcasts
 
@@ -147,10 +148,10 @@ If you want to contribute, please read [this guide](contributing.md).
 * [A high level introduction to FibyTree](https://pub.aimind.so/a-high-level-introduction-to-fibytree-bd7f8775d815) - By Maxim Zaks.
 * [🔥 FibyTree vs. 🐍 Set and SortedSet](https://mzaks.medium.com/fibytree-vs-set-and-sortedset-7b4e6b56cac8) - By Maxim Zaks.
 * [LLVM_SYMBOLIZER_PATH fix](https://gist.github.com/trevorhobenshield/6bca58f947ad6115a113a97072df1a73) - Guide for fixing the LLVM_SYMBOLIZER_PATH error some users were reporting.
-* [mojo-learning](https://github.com/rd4com/mojo-learning) - Repos of tutorials, starting with loading a C function and running it in Mojo through sys.ffi.
+* [mojo-learning](https://github.com/rd4com/mojo-learning) - Repos of tutorials.
 * [Installing Mojo in a Gitpod instance](https://gist.github.com/Sarctiann/5832bbc5bd581427b2365af391c505e3)
 * [Exploring Vectors in Mojo](https://alexforgerr.medium.com/exploring-vectors-in-mojo-71451165bb84) - By Alex Forger.
-* [Getting started with Mojo](https://dev.to/jjokah/getting-started-with-mojo-4985)
+* [Getting started with Mojo](https://dev.to/jjokah/getting-started-with-mojo-4985) - By John Johnson Okah.
 * [Multi-core (parallelize) with simd](https://github.com/rd4com/mojo-learning/blob/main/tutorials/multi-core-parallelize-with-simd%20.md) - by rd4com.
 
 ## 📜 License
