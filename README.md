@@ -9,6 +9,7 @@ If you want to contribute, please read [this guide](contributing.md).
 <!-- toc -->
 
 - [Applications](#applications)
+  * [Bioinformatics](#bioinformatics)
   * [Database](#database)
   * [Sorting](#sorting)
 - [Development tools](#development-tools)
@@ -19,6 +20,7 @@ If you want to contribute, please read [this guide](contributing.md).
   * [FFI / Interop](#ffi--interop)
   * [Geospatial](#geospatial)
   * [Math](#math)
+  * [System](#system)
 - [Resources](#resources)
   * [Official](#official)
   * [Social Media](#social-media)
@@ -33,6 +35,10 @@ If you want to contribute, please read [this guide](contributing.md).
 <!-- tocstop -->
 
 ## 🖥️ Applications
+
+### Bioinformatics
+
+* [mojomics](https://github.com/traincheckai/mojomics) - A collection of Jupyter notebooks and resources to empower bioinformatics researchers with the tools and insights they need to accelerate their projects.
 
 ### Database
 
@@ -65,6 +71,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Mojo-Arrays](https://github.com/MadAlex1997/Mojo-Arrays) - Vectorized N-Dimensional Arrays in native Mojo.
 * [Infermo](https://github.com/TilliFe/Infermo) — A compact AutoDiff Engine for Deep Learning
 * [EasyDeL](https://github.com/erfanzar/EasyDeL/) - An OpenSource Library to make your training faster and more Optimized With cool Options for training and serving Both in Python And Mojo🔥
+* [gradi-mojo](https://github.com/StijnWoestenborghs/gradi-mojo) - Implementation of a simple gradient descent problem in Python, Numpy, JAX, C++ (binding with Python) and Mojo.
 
 ### Date & Time
 
@@ -87,6 +94,10 @@ If you want to contribute, please read [this guide](contributing.md).
 ### Math
 
 * [Infrared](https://github.com/helehex/infrared) - Geometric Algebra for Mojo🔥.
+
+### System
+
+* [mojo-stdlib-extensions](https://github.com/gabrieldemarmiesse/mojo-stdlib-extensions) - A replica of Python's stdlib in Mojo.
 
 ## 📚 Resources
 
@@ -122,6 +133,8 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Mojo: Full Course for Beginners](https://www.youtube.com/watch?v=5Sm9IVMet9c&ab_channel=freeCodeCamp.org) - By Elliot from freeCodeCamp.
 * [Mojo Language](https://www.youtube.com/playlist?list=PLNYey-OZwdMzvvzi7CDeebqGmMIJI0ApP) - Mojo tutorials by Active Learning.
 * [An Introduction to Mojo](https://www.youtube.com/watch?v=pduYnTpRBLo) - By Suvash Thapaliya
+* [Cross Platform Mojo App with Conda, PyTorch and Matplotlib](https://www.youtube.com/watch?v=bmpjT0T4IDY) - By Jack Clayton.
+* [Introduction to Tensors in Mojo🔥](https://www.youtube.com/watch?v=3OWkXNdkx8E) - By Shashank Prasanna.
 
 ### Podcasts
 
@@ -139,6 +152,9 @@ If you want to contribute, please read [this guide](contributing.md).
 * [How Mojo🔥 gets a 35,000x speedup over Python – Part 1](https://www.modular.com/blog/how-mojo-gets-a-35-000x-speedup-over-python-part-1) - By Abdul Dakkak (Modular AI Compiler Engineer).
 * [How Mojo🔥 gets a 35,000x speedup over Python – Part 2](https://www.modular.com/blog/how-mojo-gets-a-35-000x-speedup-over-python-part-2) - By Abdul Dakkak (Modular AI Compiler Engineer).
 * [Mojo🔥 - A journey to 68,000x speedup over Python - Part 3](https://www.modular.com/blog/mojo-a-journey-to-68-000x-speedup-over-python-part-3) - By Abdul Dakkak (Modular AI Compiler Engineer).
+* [Mojomics: Supercharging bioinformaticians with 🔥](https://medium.com/@traincheck/mojomics-supercharging-bioinformaticians-with-460030ae5b3d) - By TrainCheck.
+* [Mojo does give superpowers](https://control.limited/mojo-does-give-superpowers) - Implementation of a simple gradient descent problem in Python, Numpy, JAX, C++ (binding with Python) and Mojo.
+* [Community Spotlight: How I built llama2.🔥](https://www.modular.com/blog/community-spotlight-how-i-built-llama2-by-aydyn-tairov) - By Aydyn Tairov.
 
 ### Tutorials
 
@@ -153,6 +169,8 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Exploring Vectors in Mojo](https://alexforgerr.medium.com/exploring-vectors-in-mojo-71451165bb84) - By Alex Forger.
 * [Getting started with Mojo](https://dev.to/jjokah/getting-started-with-mojo-4985) - By John Johnson Okah.
 * [Multi-core (parallelize) with simd](https://github.com/rd4com/mojo-learning/blob/main/tutorials/multi-core-parallelize-with-simd%20.md) - by rd4com.
+* [Mojo Gym](https://github.com/VMois/mojo-gym) - Small exercises to practice the basics of the Mojo programming language. Inspired by Rustlings project. Ideal for developers who are new to Mojo but know basics of Python.
+* [Using Mojo🔥 with Python🐍](https://www.modular.com/blog/using-mojo-with-python) - By Jack Clayton.
 
 ## 📜 License
 
