@@ -76,6 +76,7 @@ If you want to contribute, please read [this guide](contributing.md).
 ### Date & Time
 
 * [mo-time](https://github.com/sa-/mo-time) - It's time for a time pkg in Mojo🔥.
+* [morrow.mojo](https://github.com/mojoto/morrow.mojo) - Morrow is a Mojo library that provides human-friendly method for managing, formatting, and transforming dates, times, and timestamps.
 
 ### Data Structures
 
