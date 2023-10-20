@@ -12,6 +12,7 @@ If you want to contribute, please read [this guide](contributing.md).
   * [Bioinformatics](#bioinformatics)
   * [Database](#database)
   * [Sorting](#sorting)
+  * [Math](#math)
 - [Development tools](#development-tools)
 - [Libraries](#libraries)
   * [AI](#ai)
@@ -19,17 +20,19 @@ If you want to contribute, please read [this guide](contributing.md).
   * [Data Structures](#data-structures)
   * [FFI / Interop](#ffi--interop)
   * [Geospatial](#geospatial)
-  * [Math](#math)
+  * [Math](#math-1)
   * [System](#system)
 - [Resources](#resources)
   * [Official](#official)
   * [Social Media](#social-media)
   * [Newsletters](#newsletters)
   * [Videos](#videos)
+  * [Presentations](#presentations)
   * [Podcasts](#podcasts)
   * [Interviews](#interviews)
   * [Articles](#articles)
   * [Tutorials](#tutorials)
+  * [Benchmarks](#benchmarks)
 - [License](#license)
 
 <!-- tocstop -->
@@ -47,6 +50,10 @@ If you want to contribute, please read [this guide](contributing.md).
 ### Sorting
 
 * [mojo-sort](https://github.com/mzaks/mojo-sort) - Implementation of different sorting algorithms in Mojo.
+
+### Math
+
+* [mojo-prefix-sum](https://github.com/mzaks/mojo-prefix-sum) - Implementation of prefix sum as a scalar operation and with SIMD.
 
 ## 🛠️ Development Tools
 
@@ -86,6 +93,7 @@ If you want to contribute, please read [this guide](contributing.md).
 ### FFI / Interop
 
 * [mojo-libc](https://github.com/crisadamo/mojo-libc/) - Mojo's libc support.
+* [mojo-ffi](https://github.com/ihnorton/mojo-ffi) - Notes and recipes about how to call C functions from Mojo and other tricks.
 
 ### Geospatial
 
@@ -135,6 +143,12 @@ If you want to contribute, please read [this guide](contributing.md).
 * [An Introduction to Mojo](https://www.youtube.com/watch?v=pduYnTpRBLo) - By Suvash Thapaliya
 * [Cross Platform Mojo App with Conda, PyTorch and Matplotlib](https://www.youtube.com/watch?v=bmpjT0T4IDY) - By Jack Clayton.
 * [Introduction to Tensors in Mojo🔥](https://www.youtube.com/watch?v=3OWkXNdkx8E) - By Shashank Prasanna.
+* [The Mojo Programming Language](https://www.youtube.com/watch?v=iJsvtIv3E44) - By Polyglot Engineer.
+* [Cross Platform Mojo App with Conda, PyTorch and Matplotlib](https://www.youtube.com/watch?v=bmpjT0T4IDY) - By Modular.
+
+### Presentations
+
+* [Mojo 🔥 - A systems programming language](https://www.modular.com/blog/mojo-llvm-2023) - Presented at LLVM 2023
 
 ### Podcasts
 
@@ -155,6 +169,8 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Mojomics: Supercharging bioinformaticians with 🔥](https://medium.com/@traincheck/mojomics-supercharging-bioinformaticians-with-460030ae5b3d) - By TrainCheck.
 * [Mojo does give superpowers](https://control.limited/mojo-does-give-superpowers) - Implementation of a simple gradient descent problem in Python, Numpy, JAX, C++ (binding with Python) and Mojo.
 * [Community Spotlight: How I built llama2.🔥](https://www.modular.com/blog/community-spotlight-how-i-built-llama2-by-aydyn-tairov) - By Aydyn Tairov.
+* [Mojo🔥 is now available on Mac](https://www.modular.com/blog/mojo-is-now-available-on-mac) - By Shashank Prasanna.
+* [Faster prefix sum computation with SIMD and Mojo](https://mzaks.medium.com/faster-prefix-sum-computation-with-simd-and-mojo-39bdc25e49b3) - By Maxim Zaks.
 
 ### Tutorials
 
@@ -171,6 +187,10 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Multi-core (parallelize) with simd](https://github.com/rd4com/mojo-learning/blob/main/tutorials/multi-core-parallelize-with-simd%20.md) - by rd4com.
 * [Mojo Gym](https://github.com/VMois/mojo-gym) - Small exercises to practice the basics of the Mojo programming language. Inspired by Rustlings project. Ideal for developers who are new to Mojo but know basics of Python.
 * [Using Mojo🔥 with Python🐍](https://www.modular.com/blog/using-mojo-with-python) - By Jack Clayton.
+
+### Benchmarks
+
+* [Llama2 Port on Mac M1 Max](https://engiware.com/benchmark/llama2-ports-extensive-benchmarks-mac-m1-max.html) - Llama2 Ports Extensive Benchmark Results on Mac M1 Max.
 
 ## 📜 License
 
