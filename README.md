@@ -61,6 +61,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [py2mojo](https://github.com/msaelices/py2mojo) - Automated Python to Mojo code translation.
 * [MojoPkgWorkflow](https://github.com/PriNova/MojoPkgWorkflow) - Packaging Mojo🔥 via GitHub Action Script.
 * [menv](https://github.com/mojopaa/menv) - Mojo venv.
+* [mojo-pytest](https://github.com/guidorice/mojo-pytest) - Mojo test runner using pytest (example project).
 
 ## 🗂️ Libraries
 
