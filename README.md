@@ -9,12 +9,14 @@ If you want to contribute, please read [this guide](contributing.md).
 <!-- toc -->
 
 - [Applications](#applications)
+  * [Audio/Sound/Music](#audio--sound--music)
   * [Bioinformatics](#bioinformatics)
   * [Database](#database)
-  * [Sorting](#sorting)
+  * [Games](#games)
   * [Math](#math)
-  * [Audio/Sound/Music](#audio--sound--music)
-  * [Code Contests](#code-contests)
+  * [Sorting](#sorting)
+- [Code Contests](#code-contests)
+  * [Advent of Code 2023](#advent-of-code-2023)
 - [Development tools](#development-tools)
 - [Libraries](#libraries)
   * [AI](#ai)
@@ -43,6 +45,10 @@ If you want to contribute, please read [this guide](contributing.md).
 
 ## 🖥️ Applications
 
+### Audio / Sound / Music
+
+* [mojo-wav](https://github.com/kojunseo/mojo-wav) - Native wav file loading for the Mojo🔥
+
 ### Bioinformatics
 
 * [mojomics](https://github.com/traincheckai/mojomics) - A collection of Jupyter notebooks and resources to empower bioinformatics researchers with the tools and insights they need to accelerate their projects.
@@ -52,21 +58,21 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [firedis](https://github.com/igorgue/firedis) - An implementation of Redis in the Mojo programming language.
 
-### Sorting
+### Games
 
-* [mojo-sort](https://github.com/mzaks/mojo-sort) - Implementation of different sorting algorithms in Mojo.
+* [chess.mojo](https://github.com/vietanhdev/chess.mojo) - The first UCI chess engine in Mojo.
 
 ### Math
 
 * [mojo-prefix-sum](https://github.com/mzaks/mojo-prefix-sum) - Implementation of prefix sum as a scalar operation and with SIMD.
 
-### Audio / Sound / Music
+### Sorting
 
-* [mojo-wav](https://github.com/kojunseo/mojo-wav) - Native wav file loading for the Mojo🔥
+* [mojo-sort](https://github.com/mzaks/mojo-sort) - Implementation of different sorting algorithms in Mojo.
 
-### Code Contests
+## 🥇 Code Contests
 
-#### Advent of Code 2023
+### Advent of Code 2023
 
 * [advent-of-code](https://github.com/isuckatcs/advent-of-code) - By isuckatcs
 
