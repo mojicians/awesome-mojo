@@ -13,6 +13,8 @@ If you want to contribute, please read [this guide](contributing.md).
   * [Database](#database)
   * [Sorting](#sorting)
   * [Math](#math)
+  * [Audio/Sound/Music](#audio--sound--music)
+  * [Code Contests](#code-contests)
 - [Development tools](#development-tools)
 - [Libraries](#libraries)
   * [AI](#ai)
@@ -20,7 +22,9 @@ If you want to contribute, please read [this guide](contributing.md).
   * [Data Structures](#data-structures)
   * [FFI / Interop](#ffi--interop)
   * [Geospatial](#geospatial)
+  * [2D/3D Graphics](#2d3d-graphics)
   * [Math](#math-1)
+  * [Networking](#networking)
   * [System](#system)
 - [Resources](#resources)
   * [Official](#official)
@@ -42,6 +46,7 @@ If you want to contribute, please read [this guide](contributing.md).
 ### Bioinformatics
 
 * [mojomics](https://github.com/traincheckai/mojomics) - A collection of Jupyter notebooks and resources to empower bioinformatics researchers with the tools and insights they need to accelerate their projects.
+* [MojoFastTrim](https://github.com/MoSafi2/MojoFastTrim) - Experimental 'FASTQ' parser and quality trimmer written in mojo.
 
 ### Database
 
@@ -55,13 +60,23 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [mojo-prefix-sum](https://github.com/mzaks/mojo-prefix-sum) - Implementation of prefix sum as a scalar operation and with SIMD.
 
+### Audio / Sound / Music
+
+* [mojo-wav](https://github.com/kojunseo/mojo-wav) - Native wav file loading for the Mojo🔥
+
+### Code Contests
+
+#### Advent of Code 2023
+
+* [advent-of-code](https://github.com/isuckatcs/advent-of-code) - By isuckatcs
+
 ## 🛠️ Development Tools
 
 * [arch-mojo](https://github.com/Sharktheone/arch-mojo) - Script to install Mojo on ArchLinux.
 * [py2mojo](https://github.com/msaelices/py2mojo) - Automated Python to Mojo code translation.
 * [MojoPkgWorkflow](https://github.com/PriNova/MojoPkgWorkflow) - Packaging Mojo🔥 via GitHub Action Script.
 * [menv](https://github.com/mojopaa/menv) - Mojo venv.
-* [mojo-pytest](https://github.com/guidorice/mojo-pytest) - Mojo test runner using pytest (example project).
+* [mojo-pytest](https://github.com/guidorice/mojo-pytest) - Mojo test runner, pytest plugin (aka pytest-mojo).
 
 ## 🗂️ Libraries
 
@@ -70,6 +85,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [mojo-hash](https://github.com/mzaks/mojo-hash) - A collection of hash functions implemented in Mojo.
 * [mojo-console-style-print](https://github.com/rd4com/mojo-console-style-print) - Style the output of the console.
 
+
 ### AI
 
 * [Modular Engine](https://www.modular.com/engine) - Modular's AI inference engine.
@@ -77,9 +93,10 @@ If you want to contribute, please read [this guide](contributing.md).
 * [mojograd](https://github.com/automata/mojograd) — Implementation of Karpathy's micrograd in Mojo.
 * [Micro-Mojograd](https://github.com/andresnowak/Micro-Mojograd) - Implementation of Karpathy's micrograd in Mojo.
 * [Mojo-Arrays](https://github.com/MadAlex1997/Mojo-Arrays) - Vectorized N-Dimensional Arrays in native Mojo.
-* [Infermo](https://github.com/TilliFe/Infermo) — A compact AutoDiff Engine for Deep Learning
-* [EasyDeL](https://github.com/erfanzar/EasyDeL/) - An OpenSource Library to make your training faster and more Optimized With cool Options for training and serving Both in Python And Mojo🔥
+* [Infermo](https://github.com/TilliFe/Infermo) — A compact AutoDiff Engine for Deep Learning.
+* [EasyDeL](https://github.com/erfanzar/EasyDeL/) - An OpenSource Library to make your training faster and more Optimized With cool Options for training and serving Both in Python And Mojo🔥.
 * [gradi-mojo](https://github.com/StijnWoestenborghs/gradi-mojo) - Implementation of a simple gradient descent problem in Python, Numpy, JAX, C++ (binding with Python) and Mojo.
+* [Dainemo](https://github.com/StijnWoestenborghs/dainemo) - A Machine Learning framework from scratch in Mojo🔥.
 
 ### Date & Time
 
@@ -101,9 +118,17 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [geo-features](https://github.com/guidorice/geo-features) - Geographic and geometric vector features.
 
+### 2D/3D Graphics
+
+* [mojo-sdl](https://github.com/msteele/mojo-sdl) - Minimal SDL2 binding for Mojo🔥.
+
 ### Math
 
 * [Infrared](https://github.com/helehex/infrared) - Geometric Algebra for Mojo🔥.
+
+### Networking
+
+* [http.mojo](https://github.com/grandimam/http.mojo) - Mojo wrapper over Python HTTP.
 
 ### System
 
@@ -173,6 +198,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Community Spotlight: How I built llama2.🔥](https://www.modular.com/blog/community-spotlight-how-i-built-llama2-by-aydyn-tairov) - By Aydyn Tairov.
 * [Mojo🔥 is now available on Mac](https://www.modular.com/blog/mojo-is-now-available-on-mac) - By Shashank Prasanna.
 * [Faster prefix sum computation with SIMD and Mojo](https://mzaks.medium.com/faster-prefix-sum-computation-with-simd-and-mojo-39bdc25e49b3) - By Maxim Zaks.
+* [ModCon: Awesome to the MAX](https://medium.com/@ilya0x/modcon-awesome-to-the-max-dac6bc3f6a57) - By Ilya Podobedov.
 
 ### Tutorials
 
