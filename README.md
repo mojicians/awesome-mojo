@@ -69,6 +69,7 @@ If you want to contribute, please read [this guide](contributing.md).
 ### Sorting
 
 * [mojo-sort](https://github.com/mzaks/mojo-sort) - Implementation of different sorting algorithms in Mojo.
+* [sort-networks-mojo](https://github.com/HJLebbink/sort-networks-mojo) - Highly optimized sorting networks for small datasets (0-64 elements).
 
 ## 🥇 Code Contests
 
