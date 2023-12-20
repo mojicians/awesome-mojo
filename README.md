@@ -114,6 +114,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Mojo-Types](https://github.com/Moosems/Mojo-Types) - Some useful types and functions for use in Mojo code.
 * [mojo-trees](https://github.com/mzaks/mojo-trees) - Experimental Tree data structures in Mojo.
 * [mojo-magiclist](https://github.com/rd4com/mojo-magiclist) - Multi-type list using mojo builtin object, with type checking.
+* [mojoDataStructures](https://github.com/Benny-Nottonson/mojoDataStructures) - Array based data structures with types in Mojo
 
 ### FFI / Interop
 
