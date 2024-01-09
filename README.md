@@ -65,10 +65,12 @@ If you want to contribute, please read [this guide](contributing.md).
 ### Math
 
 * [mojo-prefix-sum](https://github.com/mzaks/mojo-prefix-sum) - Implementation of prefix sum as a scalar operation and with SIMD.
+* [quine-mccluskey-mojo](https://github.com/HJLebbink/quine-mccluskey-mojo) - Implementation of Quine-McCluskey with Petrick's Method
 
 ### Sorting
 
 * [mojo-sort](https://github.com/mzaks/mojo-sort) - Implementation of different sorting algorithms in Mojo.
+* [sort-networks-mojo](https://github.com/HJLebbink/sort-networks-mojo) - Highly optimized sorting networks for small datasets (0-64 elements).
 
 ## 🥇 Code Contests
 
@@ -103,6 +105,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [EasyDeL](https://github.com/erfanzar/EasyDeL/) - An OpenSource Library to make your training faster and more Optimized With cool Options for training and serving Both in Python And Mojo🔥.
 * [gradi-mojo](https://github.com/StijnWoestenborghs/gradi-mojo) - Implementation of a simple gradient descent problem in Python, Numpy, JAX, C++ (binding with Python) and Mojo.
 * [Dainemo](https://github.com/StijnWoestenborghs/dainemo) - A Machine Learning framework from scratch in Mojo🔥.
+* [Voodoo](https://github.com/Benny-Nottonson/voodoo) - A machine learning framework in pure Mojo
 
 ### Date & Time
 
@@ -114,6 +117,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Mojo-Types](https://github.com/Moosems/Mojo-Types) - Some useful types and functions for use in Mojo code.
 * [mojo-trees](https://github.com/mzaks/mojo-trees) - Experimental Tree data structures in Mojo.
 * [mojo-magiclist](https://github.com/rd4com/mojo-magiclist) - Multi-type list using mojo builtin object, with type checking.
+* [mojoDataStructures](https://github.com/Benny-Nottonson/mojoDataStructures) - Array based data structures with types in Mojo
 
 ### FFI / Interop
 
@@ -139,6 +143,10 @@ If you want to contribute, please read [this guide](contributing.md).
 ### System
 
 * [mojo-stdlib-extensions](https://github.com/gabrieldemarmiesse/mojo-stdlib-extensions) - A replica of Python's stdlib in Mojo.
+
+### Web
+
+* [Lightbug](https://github.com/saviorand/lightbug_http) - Simple and fast HTTP and Web framework for Mojo🔥.
 
 ## 📚 Resources
 
