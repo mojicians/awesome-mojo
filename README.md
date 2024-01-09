@@ -188,6 +188,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Chris Lattner at Latent Space](https://www.latent.space/p/modular#details) - Doing it the Hard Way: Making the AI engine and language of the future, with Chris Lattner of Modular.
 * [Chris Lattner at AI Chat](https://podcasters.spotify.com/pod/show/aichat/episodes/Modular-CEO-Chris-Lattner-on-Raising-100M-to-Fix-AI-Infrastructure-for-Developers-e298f7r/a-aabm4a2) - Modular CEO on raising 100M to fix AI infrastructure for developers.
 * [Chris Lattner at StackOverflow](https://stackoverflow.blog/2023/09/21/mojo-the-usability-of-python-with-the-performance-of-c/) - Mojo: The usability of Python with the performance of C.
+* [Chris Lattner at Syntax](https://syntax.fm/show/679/creator-of-swift-tesla-autopilot-and-tensorflow-new-ai-language-mojo-with-chris-lattner) - Mojo and AI.
 
 ### Interviews
 
@@ -221,6 +222,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Multi-core (parallelize) with simd](https://github.com/rd4com/mojo-learning/blob/main/tutorials/multi-core-parallelize-with-simd%20.md) - by rd4com.
 * [Mojo Gym](https://github.com/VMois/mojo-gym) - Small exercises to practice the basics of the Mojo programming language. Inspired by Rustlings project. Ideal for developers who are new to Mojo but know basics of Python.
 * [Using Mojo🔥 with Python🐍](https://www.modular.com/blog/using-mojo-with-python) - By Jack Clayton.
+* [Custom bitwidth integers in Mojo](https://ironrust.substack.com/p/custom-bitwidth-integers-a-case-for) - By Jim Chng.
 
 ### Benchmarks
 
