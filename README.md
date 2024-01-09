@@ -65,6 +65,7 @@ If you want to contribute, please read [this guide](contributing.md).
 ### Math
 
 * [mojo-prefix-sum](https://github.com/mzaks/mojo-prefix-sum) - Implementation of prefix sum as a scalar operation and with SIMD.
+* [quine-mccluskey-mojo](https://github.com/HJLebbink/quine-mccluskey-mojo) - Implementation of Quine-McCluskey with Petrick's Method
 
 ### Sorting
 
