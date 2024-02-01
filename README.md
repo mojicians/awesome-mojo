@@ -149,6 +149,10 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [Lightbug](https://github.com/saviorand/lightbug_http) - Simple and fast HTTP and Web framework for Mojo🔥.
 
+### Image Processing
+
+* [Jpeg-Decoder](https://github.com/taalhaataahir0102/Jpeg-Decoder) - A compact JPEG image decoder implemented in Mojo🔥.
+
 ## 📚 Resources
 
 ### Official
