@@ -14,6 +14,7 @@ If you want to contribute, please read [this guide](contributing.md).
   * [Database](#database)
   * [Games](#games)
   * [Math](#math)
+  * [Physics](#physics)
   * [Sorting](#sorting)
 - [Code Contests](#code-contests)
   * [Advent of Code 2023](#advent-of-code-2023)
@@ -68,10 +69,18 @@ If you want to contribute, please read [this guide](contributing.md).
 * [mojo-prefix-sum](https://github.com/mzaks/mojo-prefix-sum) - Implementation of prefix sum as a scalar operation and with SIMD.
 * [quine-mccluskey-mojo](https://github.com/HJLebbink/quine-mccluskey-mojo) - Implementation of Quine-McCluskey with Petrick's Method
 
+### Physics
+
+* [Quojo](https://github.com/Deftioon/Quojo) - A Quantum Computing Machine written in Mojo
+
 ### Sorting
 
 * [mojo-sort](https://github.com/mzaks/mojo-sort) - Implementation of different sorting algorithms in Mojo.
 * [sort-networks-mojo](https://github.com/HJLebbink/sort-networks-mojo) - Highly optimized sorting networks for small datasets (0-64 elements).
+
+### AI
+
+* [Stable-Diffusion.mojo](https://github.com/lrmantovani10/Stable-Diffusion.mojo) - A Mojo implementation of a mini Stable Diffusion model.
 
 ## 🥇 Code Contests
 
@@ -93,7 +102,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Mojo Shims](https://github.com/lsh/shims) - Utils for Mojo projects.
 * [mojo-hash](https://github.com/mzaks/mojo-hash) - A collection of hash functions implemented in Mojo.
 * [mojo-console-style-print](https://github.com/rd4com/mojo-console-style-print) - Style the output of the console.
-
+* [gojo](https://github.com/thatstoasty/gojo) - Experiments in porting over Golang stdlib into Mojo.
 
 ### AI
 
@@ -119,6 +128,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [mojo-trees](https://github.com/mzaks/mojo-trees) - Experimental Tree data structures in Mojo.
 * [mojo-magiclist](https://github.com/rd4com/mojo-magiclist) - Multi-type list using mojo builtin object, with type checking.
 * [mojoDataStructures](https://github.com/Benny-Nottonson/mojoDataStructures) - Array based data structures with types in Mojo
+* [compact-dict](https://github.com/mzaks/compact-dict) - A fast and compact Dict implementation in Mojo 🔥
 
 ### FFI / Interop
 
@@ -236,6 +246,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Mojo Gym](https://github.com/VMois/mojo-gym) - Small exercises to practice the basics of the Mojo programming language. Inspired by Rustlings project. Ideal for developers who are new to Mojo but know basics of Python.
 * [Using Mojo🔥 with Python🐍](https://www.modular.com/blog/using-mojo-with-python) - By Jack Clayton.
 * [Custom bitwidth integers in Mojo](https://ironrust.substack.com/p/custom-bitwidth-integers-a-case-for) - By Jim Chng.
+* [Poor persons package management in Mojo](https://mzaks.medium.com/poor-persons-package-management-in-mojo-8671aa6e420a) - By Maxim Zaks.
 
 ### Benchmarks
 
