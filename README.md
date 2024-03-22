@@ -146,6 +146,7 @@ If you want to contribute, please read [this guide](contributing.md).
 ### Math
 
 * [Infrared](https://github.com/helehex/infrared) - Geometric Algebra for Mojo🔥.
+- [Specials](https://github.com/leandrolcampos/specials) - Special functions with hardware acceleration.
 
 ### Networking
 
