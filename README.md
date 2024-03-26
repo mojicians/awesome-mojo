@@ -95,6 +95,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [MojoPkgWorkflow](https://github.com/PriNova/MojoPkgWorkflow) - Packaging Mojo🔥 via GitHub Action Script.
 * [menv](https://github.com/mojopaa/menv) - Mojo venv.
 * [mojo-pytest](https://github.com/guidorice/mojo-pytest) - Mojo test runner, pytest plugin (aka pytest-mojo).
+* [mojo-syntax](https://github.com/joelflaig/mojo-syntax) - Mojo🔥 syntax highlighting extension for vim/neovim.
 
 ## 🗂️ Libraries
 
