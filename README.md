@@ -26,6 +26,7 @@ If you want to contribute, please read [this guide](contributing.md).
   * [Data Structures](#data-structures)
   * [FFI / Interop](#ffi--interop)
   * [Geospatial](#geospatial)
+  * [Logging](#logging)
   * [2D/3D Graphics](#2d3d-graphics)
   * [Math](#math-1)
   * [Networking](#networking)
@@ -118,6 +119,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [gradi-mojo](https://github.com/StijnWoestenborghs/gradi-mojo) - Implementation of a simple gradient descent problem in Python, Numpy, JAX, C++ (binding with Python) and Mojo.
 * [Dainemo](https://github.com/StijnWoestenborghs/dainemo) - A Machine Learning framework from scratch in Mojo🔥.
 * [Voodoo](https://github.com/Benny-Nottonson/voodoo) - A machine learning framework in pure Mojo
+* [momograd](https://github.com/dorjeduck/momograd) - A Learning Journey: Micrograd in Mojo.
 
 ### CLI
 
@@ -144,6 +146,10 @@ If you want to contribute, please read [this guide](contributing.md).
 ### Geospatial
 
 * [geo-features](https://github.com/guidorice/geo-features) - Geographic and geometric vector features.
+
+### Logging
+
+* [stump](https://github.com/thatstoasty/stump/) - WIP Logger! Inspired by charmbracelet's log package and the Python structlog package.
 
 ### 2D/3D Graphics
 
