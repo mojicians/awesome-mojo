@@ -149,10 +149,6 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Infrared](https://github.com/helehex/infrared) - Geometric Algebra for Mojo🔥.
 - [Specials](https://github.com/leandrolcampos/specials) - Special functions with hardware acceleration.
 
-### Networking
-
-* [http.mojo](https://github.com/grandimam/http.mojo) - Mojo wrapper over Python HTTP.
-
 ### System
 
 * [mojo-stdlib-extensions](https://github.com/gabrieldemarmiesse/mojo-stdlib-extensions) - A replica of Python's stdlib in Mojo.
