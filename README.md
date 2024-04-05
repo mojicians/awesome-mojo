@@ -120,6 +120,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Dainemo](https://github.com/StijnWoestenborghs/dainemo) - A Machine Learning framework from scratch in Mojo🔥.
 * [Voodoo](https://github.com/Benny-Nottonson/voodoo) - A machine learning framework in pure Mojo
 * [momograd](https://github.com/dorjeduck/momograd) - A Learning Journey: Micrograd in Mojo.
+* [Basalt](https://github.com/basalt-org/basalt) - A Machine Learning framework from scratch in Pure Mojo.
 
 ### CLI
 
