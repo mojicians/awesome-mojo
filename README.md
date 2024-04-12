@@ -117,14 +117,13 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Infermo](https://github.com/TilliFe/Infermo) — A compact AutoDiff Engine for Deep Learning.
 * [EasyDeL](https://github.com/erfanzar/EasyDeL/) - An OpenSource Library to make your training faster and more Optimized With cool Options for training and serving Both in Python And Mojo🔥.
 * [gradi-mojo](https://github.com/StijnWoestenborghs/gradi-mojo) - Implementation of a simple gradient descent problem in Python, Numpy, JAX, C++ (binding with Python) and Mojo.
-* [Dainemo](https://github.com/StijnWoestenborghs/dainemo) - A Machine Learning framework from scratch in Mojo🔥.
-* [Voodoo](https://github.com/Benny-Nottonson/voodoo) - A machine learning framework in pure Mojo
 * [momograd](https://github.com/dorjeduck/momograd) - A Learning Journey: Micrograd in Mojo.
 * [Basalt](https://github.com/basalt-org/basalt) - A Machine Learning framework from scratch in Pure Mojo.
 
 ### CLI
 
 * [prism](https://github.com/thatstoasty/prism) - Mojo CLI Library modeled after Cobra.
+* [mog](https://github.com/thatstoasty/mog) - Style definitions for nice terminal layouts.
 
 ### Date & Time
 
