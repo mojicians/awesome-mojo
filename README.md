@@ -16,6 +16,7 @@ If you want to contribute, please read [this guide](contributing.md).
   * [Math](#math)
   * [Physics](#physics)
   * [Sorting](#sorting)
+  * [Wireless Communication](#wireless)
 - [Code Contests](#code-contests)
   * [Advent of Code 2023](#advent-of-code-2023)
 - [Development tools](#development-tools)
@@ -79,6 +80,10 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [mojo-sort](https://github.com/mzaks/mojo-sort) - Implementation of different sorting algorithms in Mojo.
 * [sort-networks-mojo](https://github.com/HJLebbink/sort-networks-mojo) - Highly optimized sorting networks for small datasets (0-64 elements).
+
+### Wireless Communication
+
+* [mocodes](https://github.com/alainrollejr/mocodes) - An error correction (de)coding library in pure Mojo.
 
 ### AI
 
