@@ -262,6 +262,10 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Custom bitwidth integers in Mojo](https://ironrust.substack.com/p/custom-bitwidth-integers-a-case-for) - By Jim Chng.
 * [Poor persons package management in Mojo](https://mzaks.medium.com/poor-persons-package-management-in-mojo-8671aa6e420a) - By Maxim Zaks.
 
+### Books
+
+* [Learn Mojo Programming Language](https://ruhati.net/mojo/) - Free comprehensive book on Mojo with examples and illustrations.
+
 ### Benchmarks
 
 * [Llama2 Port on Mac M1 Max](https://engiware.com/benchmark/llama2-ports-extensive-benchmarks-mac-m1-max.html) - Llama2 Ports Extensive Benchmark Results on Mac M1 Max.
