@@ -29,6 +29,7 @@ If you want to contribute, please read [this guide](contributing.md).
   * [Geospatial](#geospatial)
   * [Logging](#logging)
   * [2D/3D Graphics](#2d3d-graphics)
+  * [UI](#ui)
   * [Math](#math-1)
   * [Networking](#networking)
   * [System](#system)
@@ -159,6 +160,10 @@ If you want to contribute, please read [this guide](contributing.md).
 ### 2D/3D Graphics
 
 * [mojo-sdl](https://github.com/msteele/mojo-sdl) - Minimal SDL2 binding for Mojo🔥.
+
+### UI
+
+* [mojo-qt](https://github.com/rectalogic/mojo-qt) - Demo of integrating Qt6 UI with Mojo🔥.
 
 ### Math
 
