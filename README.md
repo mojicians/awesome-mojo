@@ -120,7 +120,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [mojograd](https://github.com/automata/mojograd) — Implementation of Karpathy's micrograd in Mojo.
 * [Micro-Mojograd](https://github.com/andresnowak/Micro-Mojograd) - Implementation of Karpathy's micrograd in Mojo.
 * [Mojo-Arrays](https://github.com/MadAlex1997/Mojo-Arrays) - Vectorized N-Dimensional Arrays in native Mojo.
-* [Infermo](https://github.com/TilliFe/Infermo) — A compact AutoDiff Engine for Deep Learning.
+* [Endia](https://github.com/endia-org/Endia) — Dynamic Array Library in Mojo 🔥: Automatic Differentiation, Complex Numbers and JIT-compilation with MAX.
 * [EasyDeL](https://github.com/erfanzar/EasyDeL/) - An OpenSource Library to make your training faster and more Optimized With cool Options for training and serving Both in Python And Mojo🔥.
 * [gradi-mojo](https://github.com/StijnWoestenborghs/gradi-mojo) - Implementation of a simple gradient descent problem in Python, Numpy, JAX, C++ (binding with Python) and Mojo.
 * [momograd](https://github.com/dorjeduck/momograd) - A Learning Journey: Micrograd in Mojo.
