@@ -26,7 +26,6 @@ If you want to contribute, please read [this guide](contributing.md).
   * [Date & Time](#date--time)
   * [Data Structures](#data-structures)
   * [FFI / Interop](#ffi--interop)
-  * [Geospatial](#geospatial)
   * [Logging](#logging)
   * [2D/3D Graphics](#2d3d-graphics)
   * [UI](#ui)
@@ -148,10 +147,6 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [mojo-libc](https://github.com/crisadamo/mojo-libc/) - Mojo's libc support.
 * [mojo-ffi](https://github.com/ihnorton/mojo-ffi) - Notes and recipes about how to call C functions from Mojo and other tricks.
-
-### Geospatial
-
-* [geo-features](https://github.com/guidorice/geo-features) - Geographic and geometric vector features.
 
 ### Logging
 
