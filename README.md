@@ -57,6 +57,7 @@ If you want to contribute, please read [this guide](contributing.md).
 ### Bioinformatics
 
 * [MojoFastTrim](https://github.com/MoSafi2/MojoFastTrim) - Experimental 'FASTQ' parser and quality trimmer written in mojo.
+* [mojomics](https://github.com/mattfaltyn/mojomics) - A collection of Jupyter notebooks and resources to empower bioinformatics researchers with the tools and insights they need to accelerate their projects.
 
 ### Database
 
