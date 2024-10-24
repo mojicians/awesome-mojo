@@ -172,6 +172,7 @@ If you want to contribute, please read [this guide](contributing.md).
 ### Web
 
 * [Lightbug](https://github.com/saviorand/lightbug_http) - Simple and fast HTTP and Web framework for Mojo🔥.
+* [EmberJson](https://github.com/bgreni/EmberJson) - An ergonomic JSON library in pure Mojo🔥.
 
 ### Image Processing
 
