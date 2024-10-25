@@ -142,6 +142,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [mojo-magiclist](https://github.com/rd4com/mojo-magiclist) - Multi-type list using mojo builtin object, with type checking.
 * [mojoDataStructures](https://github.com/Benny-Nottonson/mojoDataStructures) - Array based data structures with types in Mojo
 * [compact-dict](https://github.com/mzaks/compact-dict) - A fast and compact Dict implementation in Mojo 🔥
+* [deque](https://github.com/avitkauskas/mojo-datastructs) - Deque (double-ended queue) implementation in Mojo.
 
 ### FFI / Interop
 
