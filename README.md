@@ -124,6 +124,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [gradi-mojo](https://github.com/StijnWoestenborghs/gradi-mojo) - Implementation of a simple gradient descent problem in Python, Numpy, JAX, C++ (binding with Python) and Mojo.
 * [momograd](https://github.com/dorjeduck/momograd) - A Learning Journey: Micrograd in Mojo.
 * [Basalt](https://github.com/basalt-org/basalt) - A Machine Learning framework from scratch in Pure Mojo.
+* [Mojmelo](https://github.com/yetalit/Mojmelo) - Machine Learning algorithms in pure Mojo 🔥
 
 ### CLI
 
