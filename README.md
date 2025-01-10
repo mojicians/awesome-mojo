@@ -94,6 +94,8 @@ If you want to contribute, please read [this guide](contributing.md).
 ### Advent of Code 2023
 
 * [advent-of-code](https://github.com/isuckatcs/advent-of-code) - By isuckatcs
+* [aoc2023](https://github.com/p88h/aoc2023) - By p88h
+
 
 ## 🛠️ Development Tools
 
