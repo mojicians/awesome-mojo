@@ -48,7 +48,7 @@ If you want to contribute, please read [this guide](contributing.md).
 
 <!-- tocstop -->
 
-## 🖥️ Applications
+## 🖥️ Applications<a id='applications'></a>
 
 ### Audio / Sound / Music
 
@@ -89,7 +89,7 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [Stable-Diffusion.mojo](https://github.com/lrmantovani10/Stable-Diffusion.mojo) - A Mojo implementation of a mini Stable Diffusion model.
 
-## 🥇 Code Contests
+## 🥇 Code Contests<a id='code-contests'></a>
 
 ### Advent of Code 2023
 
@@ -97,7 +97,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [aoc2023](https://github.com/p88h/aoc2023) - By p88h
 
 
-## 🛠️ Development Tools
+## 🛠️ Development Tools<a id='development-tools'></a>
 
 * [arch-mojo](https://github.com/Sharktheone/arch-mojo) - Script to install Mojo on ArchLinux.
 * [py2mojo](https://github.com/msaelices/py2mojo) - Automated Python to Mojo code translation.
@@ -106,7 +106,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [mojo-pytest](https://github.com/guidorice/mojo-pytest) - Mojo test runner, pytest plugin (aka pytest-mojo).
 * [mojo-syntax](https://github.com/joelflaig/mojo-syntax) - Mojo🔥 syntax highlighting extension for vim/neovim.
 
-## 🗂️ Libraries
+## 🗂️ Libraries<a id='libraries'></a>
 
 * [Mojo_community-lib](https://github.com/Lynet101/Mojo_community-lib) - Community based effort to create libraries/utilities in Mojo🔥.
 * [Mojo Shims](https://github.com/lsh/shims) - Utils for Mojo projects.
@@ -183,7 +183,7 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [Jpeg-Decoder](https://github.com/taalhaataahir0102/Jpeg-Decoder) - A compact JPEG image decoder implemented in Mojo🔥.
 
-## 📚 Resources
+## 📚 Resources<a id='resources'></a>
 
 ### Official
 
@@ -276,6 +276,6 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [Llama2 Port on Mac M1 Max](https://engiware.com/benchmark/llama2-ports-extensive-benchmarks-mac-m1-max.html) - Llama2 Ports Extensive Benchmark Results on Mac M1 Max.
 
-## 📜 License
+## 📜 License<a id='license'></a>
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
