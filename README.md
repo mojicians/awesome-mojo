@@ -105,6 +105,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [menv](https://github.com/mojopaa/menv) - Mojo venv.
 * [mojo-pytest](https://github.com/guidorice/mojo-pytest) - Mojo test runner, pytest plugin (aka pytest-mojo).
 * [mojo-syntax](https://github.com/joelflaig/mojo-syntax) - Mojo🔥 syntax highlighting extension for vim/neovim.
+* [Modo🧯](https://github.com/mlange-42/modo) - Markdown documentation generator (DocGen) for Mojo🔥.
 
 ## 🗂️ Libraries
 
