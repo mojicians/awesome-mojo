@@ -66,6 +66,7 @@ If you want to contribute, please read [this guide](contributing.md).
 ### Games
 
 * [chess.mojo](https://github.com/vietanhdev/chess.mojo) - The first UCI chess engine in Mojo.
+* [Larecs🌲](https://github.com/samufi/larecs) - A performance-oriented archetype-based entity component system (ECS) for Mojo🔥.
 
 ### Math
 
