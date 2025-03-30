@@ -184,6 +184,7 @@ If you want to contribute, please read [this guide](contributing.md).
 ### Image Processing
 
 * [Jpeg-Decoder](https://github.com/taalhaataahir0102/Jpeg-Decoder) - A compact JPEG image decoder implemented in Mojo🔥.
+* [mimage](https://github.com/fnands/mimage) - An image decoding library implemented in Mojo 🔥. 
 
 ## 📚 Resources<a id='resources'></a>
 
