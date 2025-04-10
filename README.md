@@ -165,6 +165,7 @@ If you want to contribute, please read [this guide](contributing.md).
 ### UI
 
 * [mojo-qt](https://github.com/rectalogic/mojo-qt) - Demo of integrating Qt6 UI with Mojo🔥.
+* [CombustUI](https://github.com/Hammad-hab/CombustUI/) - CombustUI is a GUI library for Mojo, building on from C++'s FLTK (Fast Light Toolkit)
 
 ### Math
 
