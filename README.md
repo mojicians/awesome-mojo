@@ -172,7 +172,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Infrared](https://github.com/helehex/infrared) - Geometric Algebra for Mojo🔥.
 * [Specials](https://github.com/leandrolcampos/specials) - Special functions with hardware acceleration.
 * [NuMojo](https://github.com/Mojo-Numerics-and-Algorithms-group/NuMojo) - A library for numerical computing in Mojo 🔥 similar to NumPy, SciPy in Python.
-* [DeciMojo](https://github.com/forfudan/decimojo) - Fixed-point decimal arithmetic library implemented in Mojo 🔥
+* [DeciMojo](https://github.com/forfudan/decimojo) - An arbitrary-precision decimal and integer mathematics library for Mojo, supporting `BigInt` and `BigDecimal` types.
 
 ### System
 
