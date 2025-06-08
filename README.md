@@ -76,6 +76,7 @@ If you want to contribute, please read [this guide](contributing.md).
 ### Physics
 
 * [Quojo](https://github.com/Deftioon/Quojo) - A Quantum Computing Machine written in Mojo
+* [Ember](https://github.com/adamreidsmith/ember) - A Quantum Computing Platform implemented in Mojo 🔥.
 
 ### Sorting
 
