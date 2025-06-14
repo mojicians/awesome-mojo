@@ -277,7 +277,7 @@ If you want to contribute, please read [this guide](contributing.md).
 ### Books
 
 * [Learn Mojo Programming Language](https://ruhati.net/mojo/) - Free comprehensive book on Mojo with examples and illustrations.
-* [Mojo Miji - A Guide to Mojo Programming Language from A Pythonista's Perspective](https://mojo-lang.com/docs/) - A comprehensive online book on Mojo, written specifically for Pythonistas transitioning to the language.
+* [Mojo Miji - A Guide to Mojo Programming Language from A Pythonista's Perspective](https://mojo-lang.com/) - A comprehensive online book on Mojo, written specifically for Pythonistas transitioning to the language.
 
 ### Benchmarks
 
