@@ -4,6 +4,7 @@ A curated list of awesome Mojo🔥 frameworks, libraries, software and resources
 
 If you want to contribute, please read [this guide](contributing.md).
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Mojo language workflow orchestration, automated high-performance AI pipeline management, and multi-agent coordination. MIT licensed.
 ## Table of contents
 
 <!-- toc -->
