@@ -102,6 +102,7 @@ If you want to contribute, please read [this guide](contributing.md).
 ## 🛠️ Development Tools<a id='development-tools'></a>
 
 * [arch-mojo](https://github.com/Sharktheone/arch-mojo) - Script to install Mojo on ArchLinux.
+* [c-mojo-bridge](https://github.com/JanHercek/c-mojo-bridge) - A powerful CLI tool to generate Mojo bindings from C API headers.
 * [py2mojo](https://github.com/msaelices/py2mojo) - Automated Python to Mojo code translation.
 * [MojoPkgWorkflow](https://github.com/PriNova/MojoPkgWorkflow) - Packaging Mojo🔥 via GitHub Action Script.
 * [menv](https://github.com/mojopaa/menv) - Mojo venv.
