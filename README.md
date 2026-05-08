@@ -163,6 +163,7 @@ If you want to contribute, please read [this guide](contributing.md).
 
 ### 2D/3D Graphics
 
+* [wgpu-mojo](https://github.com/Hundo1018/wgpu-mojo) - Wgpu-native binding for Mojo🔥.
 * [mojo-sdl](https://github.com/msteele/mojo-sdl) - Minimal SDL2 binding for Mojo🔥.
 
 ### UI
