@@ -283,6 +283,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Using Mojo🔥 with Python🐍](https://www.modular.com/blog/using-mojo-with-python) - By Jack Clayton.
 * [Custom bitwidth integers in Mojo](https://ironrust.substack.com/p/custom-bitwidth-integers-a-case-for) - By Jim Chng.
 * [Poor persons package management in Mojo](https://mzaks.medium.com/poor-persons-package-management-in-mojo-8671aa6e420a) - By Maxim Zaks.
+* [Mojo Quest](https://quest.mojolang.org/) - Learn Mojo by solving coding challenges at a fictional robotics company.
 
 ### Books
 
