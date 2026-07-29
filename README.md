@@ -186,6 +186,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [mojo-stdlib-extensions](https://github.com/gabrieldemarmiesse/mojo-stdlib-extensions) - A replica of Python's stdlib in Mojo.
 * [mojo-dotenv](https://github.com/databooth/mojo-dotenv) - Load environment variables from `.env` files. 98%+ compatible with python-dotenv. Features variable expansion, multiline values, escape sequences, and auto-discovery. 42 comprehensive tests.
 * [mojo-toml](https://github.com/databooth/mojo-toml) - TOML 1.0 parser and writer for Mojo. Complete implementation with array-of-tables, alternative number bases, and partial TOML 1.1 support. 168 comprehensive tests.
+* [mojo-kafka](https://github.com/dvirarad/mojo-kafka) - Apache Kafka client for Mojo — librdkafka bindings with a Pythonic producer / consumer / admin API.
 
 ### Web
 
