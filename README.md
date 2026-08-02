@@ -62,7 +62,7 @@ If you want to contribute, please read [this guide](contributing.md).
 ### Database
 
 * [firedis](https://github.com/igorgue/firedis) - An implementation of Redis in the Mojo programming language.
-* [MojoVec] (https://github.com/bewaffnete/MojoVec) - Vector Database (HNSW)
+* [MojoVec](https://github.com/bewaffnete/MojoVec) - Vector Database (HNSW)
 
 ### Games
 
