@@ -16,6 +16,7 @@ If you want to contribute, please read [this guide](contributing.md).
   * [Math](#math)
   * [Physics](#physics)
   * [Sorting](#sorting)
+  * [Serverless](#serverless)
   * [Wireless Communication](#wireless)
 - [Code Contests](#code-contests)
   * [Advent of Code 2023](#advent-of-code-2023)
@@ -83,6 +84,10 @@ If you want to contribute, please read [this guide](contributing.md).
 * [mojo-sort](https://github.com/mzaks/mojo-sort) - Implementation of different sorting algorithms in Mojo.
 * [sort-networks-mojo](https://github.com/HJLebbink/sort-networks-mojo) - Highly optimized sorting networks for small datasets (0-64 elements).
 
+### Serverless
+
+* [mojojojo](https://github.com/lee101/mojojojo) - Serverless Python execution with per-millisecond billing; numeric loops are transpiled to Mojo and cached. Hosted at [mojojojo.cc](https://mojojojo.cc).
+
 ### Wireless Communication
 
 * [mocodes](https://github.com/alainrollejr/mocodes) - An error correction (de)coding library in pure Mojo.
@@ -109,6 +114,9 @@ If you want to contribute, please read [this guide](contributing.md).
 * [mojo-pytest](https://github.com/guidorice/mojo-pytest) - Mojo test runner, pytest plugin (aka pytest-mojo).
 * [mojo-syntax](https://github.com/joelflaig/mojo-syntax) - Mojo🔥 syntax highlighting extension for vim/neovim.
 * [Modo🧯](https://github.com/mlange-42/modo) - Markdown documentation generator (DocGen) for Mojo🔥.
+* [mojosub](https://github.com/lee101/mojosub) - Compile a subset of Python to Mojo, cache by content hash, and dispatch native kernels from CPython.
+* [mojojojo-compiler](https://github.com/lee101/mojojojo-compiler) - Mojo-native hybrid compiler for arbitrary Python used by the mojojojo runtime.
+* [mojo-factory](https://github.com/lee101/mojo-factory) - Autonomous pipeline that ports Python libraries to Mojo and publishes each port as an open-source `mojo-*` repository.
 
 ## 🗂️ Libraries<a id='libraries'></a>
 
@@ -131,6 +139,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [momograd](https://github.com/dorjeduck/momograd) - A Learning Journey: Micrograd in Mojo.
 * [Basalt](https://github.com/basalt-org/basalt) - A Machine Learning framework from scratch in Pure Mojo.
 * [Mojmelo](https://github.com/yetalit/Mojmelo) - Machine Learning algorithms in pure Mojo 🔥
+* [mojojojo-agent](https://github.com/lee101/mojojojo-agent) - Open-source coding agent with native search and execution against the mojojojo runtime.
 
 ### CLI
 
