@@ -32,6 +32,7 @@ If you want to contribute, please read [this guide](contributing.md).
   * [Math](#math-1)
   * [Networking](#networking)
   * [System](#system)
+  * [Text & Parsing](#text--parsing)
   * [Web](#web)
 - [Resources](#resources)
   * [Official](#official)
@@ -187,6 +188,20 @@ If you want to contribute, please read [this guide](contributing.md).
 * [mojo-dotenv](https://github.com/databooth/mojo-dotenv) - Load environment variables from `.env` files. 98%+ compatible with python-dotenv. Features variable expansion, multiline values, escape sequences, and auto-discovery. 42 comprehensive tests.
 * [mojo-toml](https://github.com/databooth/mojo-toml) - TOML 1.0 parser and writer for Mojo. Complete implementation with array-of-tables, alternative number bases, and partial TOML 1.1 support. 168 comprehensive tests.
 * [mojo-kafka](https://github.com/dvirarad/mojo-kafka) - Apache Kafka client for Mojo — librdkafka bindings with a Pythonic producer / consumer / admin API.
+* [mojo-tar](https://github.com/conorbronsdon/mojo-tar) - A tar archive reader and writer in pure Mojo, supporting ustar, GNU, and pax formats.
+* [mojo-redis](https://github.com/conorbronsdon/mojo-redis) - A RESP2 Redis client in pure Mojo, with a redis-py-shaped API.
+
+### Text & Parsing
+
+* [mojo-xml](https://github.com/conorbronsdon/mojo-xml) - General-purpose XML parsing in pure Mojo, with an ElementTree-shaped DOM.
+* [mojo-html](https://github.com/conorbronsdon/mojo-html) - Liberal HTML parsing and readability article extraction in pure Mojo.
+* [mojo-markdown](https://github.com/conorbronsdon/mojo-markdown) - CommonMark parser and HTML renderer in pure Mojo, at 98.6% spec conformance.
+* [mojo-feed](https://github.com/conorbronsdon/mojo-feed) - RSS, Atom, and JSON Feed parsing in pure Mojo, with no dependencies.
+* [mojo-url](https://github.com/conorbronsdon/mojo-url) - URL parsing, building, and query-string encoding in pure Mojo.
+* [mojo-captions](https://github.com/conorbronsdon/mojo-captions) - SRT and WebVTT subtitle parsing in pure Mojo, with speaker and voice-span support.
+* [mojo-template](https://github.com/conorbronsdon/mojo-template) - A Jinja-flavored template engine in pure Mojo.
+* [mojo-diff](https://github.com/conorbronsdon/mojo-diff) - Myers text diff and unified-diff output in pure Mojo.
+* [mojo-unicodedata](https://github.com/conorbronsdon/mojo-unicodedata) - Unicode normalization (NFC/NFD/NFKC/NFKD) and casefold in pure Mojo.
 
 ### Web
 
