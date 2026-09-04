@@ -213,6 +213,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [mojo-template](https://github.com/conorbronsdon/mojo-template) - A Jinja-flavored template engine in pure Mojo.
 * [mojo-diff](https://github.com/conorbronsdon/mojo-diff) - Myers text diff and unified-diff output in pure Mojo.
 * [mojo-unicodedata](https://github.com/conorbronsdon/mojo-unicodedata) - Unicode normalization (NFC/NFD/NFKC/NFKD) and casefold in pure Mojo.
+* [safetensors.mojo](https://github.com/egor-fedorov/safetensors.mojo) - Independent Safetensors format implementation in pure Mojo.
 
 ### Web
 
