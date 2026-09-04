@@ -142,6 +142,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Basalt](https://github.com/basalt-org/basalt) - A Machine Learning framework from scratch in Pure Mojo.
 * [Mojmelo](https://github.com/yetalit/Mojmelo) - Machine Learning algorithms in pure Mojo 🔥
 * [mojojojo-agent](https://github.com/lee101/mojojojo-agent) - Open-source coding agent with native search and execution against the mojojojo runtime.
+* [Strata](https://github.com/ethqnol/Strata/) - Machine Learning with Scikit-Learn ergonomics written in Mojo for Mojo. Strict traits, static polymorphism, and generic SIMD types make it extremely fast.
 
 ### CLI
 
