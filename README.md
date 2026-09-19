@@ -143,6 +143,8 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Mojmelo](https://github.com/yetalit/Mojmelo) - Machine Learning algorithms in pure Mojo 🔥
 * [mojojojo-agent](https://github.com/lee101/mojojojo-agent) - Open-source coding agent with native search and execution against the mojojojo runtime.
 * [Strata](https://github.com/ethqnol/Strata/) - Machine Learning with Scikit-Learn ergonomics written in Mojo for Mojo. Strict traits, static polymorphism, and generic SIMD types make it extremely fast.
+* [algenta-sdk](https://github.com/thyn-ai/algenta-sdk) - Python and TypeScript SDKs for the Algenta governed decision engine, whose compute kernels are written in Mojo.
+* [algenta-integrations](https://github.com/thyn-ai/algenta-integrations) - Ten framework integrations (LangChain, LlamaIndex, pydantic-ai, n8n, vLLM, and more) mapping Algenta's governed tool profiles onto agent frameworks.
 
 ### CLI
 
@@ -168,6 +170,7 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [mojo-libc](https://github.com/crisadamo/mojo-libc/) - Mojo's libc support.
 * [mojo-ffi](https://github.com/ihnorton/mojo-ffi) - Notes and recipes about how to call C functions from Mojo and other tricks.
+* [mojo-quickstart](https://github.com/thyn-ai/algenta-sdk/tree/main/examples/mojo-quickstart) - Call signed Mojo compute kernels from Mojo and Python through a stable C-ABI boundary, with a pixi and rattler-build recipe.
 
 ### Logging
 
