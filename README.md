@@ -259,7 +259,6 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Mojo: Full Course for Beginners](https://www.youtube.com/watch?v=5Sm9IVMet9c&ab_channel=freeCodeCamp.org) - By Elliot from freeCodeCamp.
 * [Mojo Language](https://www.youtube.com/playlist?list=PLNYey-OZwdMzvvzi7CDeebqGmMIJI0ApP) - Mojo tutorials by Active Learning.
 * [An Introduction to Mojo](https://www.youtube.com/watch?v=pduYnTpRBLo) - By Suvash Thapaliya
-* [Cross Platform Mojo App with Conda, PyTorch and Matplotlib](https://www.youtube.com/watch?v=bmpjT0T4IDY) - By Jack Clayton.
 * [Introduction to Tensors in Mojo🔥](https://www.youtube.com/watch?v=3OWkXNdkx8E) - By Shashank Prasanna.
 * [The Mojo Programming Language](https://www.youtube.com/watch?v=iJsvtIv3E44) - By Polyglot Engineer.
 * [Cross Platform Mojo App with Conda, PyTorch and Matplotlib](https://www.youtube.com/watch?v=bmpjT0T4IDY) - By Modular.
