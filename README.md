@@ -193,6 +193,10 @@ If you want to contribute, please read [this guide](contributing.md).
 * [StaMojo](https://github.com/mojomath/stamojo) - A statistical computing library for Mojo, inspired by ``scipy.stats`` and ``statsmodels`` in Python.
 * [dsplib-mojo](https://github.com/electricalgorithm/dsplib-mojo) - A digital signal processing library for Mojo, aiming to be an educational resource.
 
+### Networking
+
+* [mojo-http2](https://github.com/nsalerni/mojo-http2) - HPACK and HTTP/2 with h2c and TLS transports for Mojo.
+
 ### System
 
 * [mojo-stdlib-extensions](https://github.com/gabrieldemarmiesse/mojo-stdlib-extensions) - A replica of Python's stdlib in Mojo.
