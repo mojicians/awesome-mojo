@@ -219,6 +219,7 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [Lightbug](https://github.com/saviorand/lightbug_http) - Simple and fast HTTP and Web framework for Mojo🔥.
 * [EmberJson](https://github.com/bgreni/EmberJson) - An ergonomic JSON library in pure Mojo🔥.
+* [req.mojo](https://github.com/mojoto/req.mojo) - A synchronous HTTP/1.1 client for Mojo, powered by libcurl, with persistent connections, cookies, JSON, and streaming responses.
 
 ### Image Processing
 
