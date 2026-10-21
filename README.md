@@ -143,6 +143,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Mojmelo](https://github.com/yetalit/Mojmelo) - Machine Learning algorithms in pure Mojo 🔥
 * [mojojojo-agent](https://github.com/lee101/mojojojo-agent) - Open-source coding agent with native search and execution against the mojojojo runtime.
 * [Strata](https://github.com/ethqnol/Strata/) - Machine Learning with Scikit-Learn ergonomics written in Mojo for Mojo. Strict traits, static polymorphism, and generic SIMD types make it extremely fast.
+* [mojolearn](https://github.com/mojolearn/mojolearn) - GPU machine learning in Mojo for training and inference. In `identical` mode, mojolearn returns the same bits on Apple, NVIDIA and AMD GPUs.
 
 ### CLI
 
