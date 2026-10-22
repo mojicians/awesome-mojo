@@ -225,6 +225,7 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [Jpeg-Decoder](https://github.com/taalhaataahir0102/Jpeg-Decoder) - A compact JPEG image decoder implemented in Mojo🔥.
 * [mimage](https://github.com/fnands/mimage) - An image decoding library implemented in Mojo 🔥.
+* [mojo-image-reader](https://github.com/AlexALX/mojo-image-reader) - A native Mojo 🔥 image reader (JPG, BMP, PNG, GIF) with PPM/PAM/PFM export and Python/NumPy interoperability.
 
 ## 📚 Resources<a id='resources'></a>
 
