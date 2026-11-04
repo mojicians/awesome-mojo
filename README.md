@@ -80,6 +80,7 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [Quojo](https://github.com/Deftioon/Quojo) - A Quantum Computing Machine written in Mojo
 * [Ember](https://github.com/adamreidsmith/ember) - A Quantum Computing Platform implemented in Mojo 🔥.
+* [bajo](https://github.com/jgsimard/bajo) - A pure-Mojo parallel physics simulator for running thousands of reinforcement learning and robotics environments on a GPU.
 
 ### Sorting
 
@@ -144,6 +145,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [mojojojo-agent](https://github.com/lee101/mojojojo-agent) - Open-source coding agent with native search and execution against the mojojojo runtime.
 * [Strata](https://github.com/ethqnol/Strata/) - Machine Learning with Scikit-Learn ergonomics written in Mojo for Mojo. Strict traits, static polymorphism, and generic SIMD types make it extremely fast.
 * [mojolearn](https://github.com/mojolearn/mojolearn) - GPU machine learning in Mojo for training and inference. In `identical` mode, mojolearn returns the same bits on Apple, NVIDIA and AMD GPUs.
+* [noeira](https://github.com/noeira/noeira) - An end-to-end reinforcement learning framework written entirely in Mojo, with GPU acceleration and 40+ algorithms.
 
 ### CLI
 
@@ -178,6 +180,7 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [wgpu-mojo](https://github.com/Hundo1018/wgpu-mojo) - Wgpu-native binding for Mojo🔥.
 * [mojo-sdl](https://github.com/msteele/mojo-sdl) - Minimal SDL2 binding for Mojo🔥.
+* [momanim](https://github.com/josiahls/momanim) - A CPU- and GPU-accelerated 2D animation framework inspired by Manim.
 
 ### UI
 
@@ -193,6 +196,11 @@ If you want to contribute, please read [this guide](contributing.md).
 * [SciJo](https://github.com/shivasankarka/SciJo) - A high-performance scientific computing library for Mojo, offering SciPy-like functionality.
 * [StaMojo](https://github.com/mojomath/stamojo) - A statistical computing library for Mojo, inspired by ``scipy.stats`` and ``statsmodels`` in Python.
 * [dsplib-mojo](https://github.com/electricalgorithm/dsplib-mojo) - A digital signal processing library for Mojo, aiming to be an educational resource.
+* [hackathon-fft](https://github.com/martinvuyk/hackathon-fft) - A portable N-dimensional Fast Fourier Transform implementation for CPUs and GPUs.
+
+### Networking
+
+* [floki](https://github.com/thatstoasty/floki) - A requests-like HTTP client for Mojo, powered by libcurl.
 
 ### System
 
