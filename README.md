@@ -147,6 +147,9 @@ If you want to contribute, please read [this guide](contributing.md).
 * [mojolearn](https://github.com/mojolearn/mojolearn) - GPU machine learning in Mojo for training and inference. In `identical` mode, mojolearn returns the same bits on Apple, NVIDIA and AMD GPUs.
 * [noeira](https://github.com/noeira/noeira) - An end-to-end reinforcement learning framework written entirely in Mojo, with GPU acceleration and 40+ algorithms.
 
+* [algenta-sdk](https://github.com/thyn-ai/algenta-sdk) - Python and TypeScript SDKs for the Algenta governed decision engine, whose compute kernels are written in Mojo.
+* [algenta-integrations](https://github.com/thyn-ai/algenta-integrations) - Ten framework integrations (LangChain, LlamaIndex, pydantic-ai, n8n, vLLM, and more) mapping Algenta's governed tool profiles onto agent frameworks.
+
 ### CLI
 
 * [prism](https://github.com/thatstoasty/prism) - Mojo CLI Library modeled after Cobra.
@@ -171,6 +174,8 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [mojo-libc](https://github.com/crisadamo/mojo-libc/) - Mojo's libc support.
 * [mojo-ffi](https://github.com/ihnorton/mojo-ffi) - Notes and recipes about how to call C functions from Mojo and other tricks.
+
+* [mojo-quickstart](https://github.com/thyn-ai/algenta-sdk/tree/main/examples/mojo-quickstart) - Call signed Mojo compute kernels from Mojo and Python through a stable C-ABI boundary, with a pixi and rattler-build recipe.
 
 ### Logging
 
