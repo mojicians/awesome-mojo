@@ -207,6 +207,10 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [floki](https://github.com/thatstoasty/floki) - A requests-like HTTP client for Mojo, powered by libcurl.
 
+### Networking
+
+* [mojo-net](https://github.com/nsalerni/mojo-net) - TCP, UDP, DNS, Unix sockets, and readiness polling for Mojo.
+
 ### System
 
 * [mojo-stdlib-extensions](https://github.com/gabrieldemarmiesse/mojo-stdlib-extensions) - A replica of Python's stdlib in Mojo.
