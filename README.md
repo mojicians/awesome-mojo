@@ -128,7 +128,8 @@ If you want to contribute, please read [this guide](contributing.md).
 * [mojo-hash](https://github.com/mzaks/mojo-hash) - A collection of hash functions implemented in Mojo.
 * [mojo-console-style-print](https://github.com/rd4com/mojo-console-style-print) - Style the output of the console.
 * [gojo](https://github.com/thatstoasty/gojo) - Experiments in porting over Golang stdlib into Mojo.
-
+* [gld-kiln](https://github.com/leo-gan/gld-kiln) - A frozen, positional, little-endian wire format implemented from scratch in Mojo, with golden-file-tested codecs in 11 languages.
+  
 ### AI
 
 * [Modular Engine](https://www.modular.com/engine) - Modular's AI inference engine.
