@@ -223,6 +223,10 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [protomojo](https://github.com/nsalerni/protomojo) - Protocol Buffers runtime and protoc plugin for Mojo.
 
+### Networking
+
+* [grpc-mojo](https://github.com/nsalerni/grpc-mojo) - gRPC client and server runtime for Mojo.
+
 ### System
 
 * [mojo-stdlib-extensions](https://github.com/gabrieldemarmiesse/mojo-stdlib-extensions) - A replica of Python's stdlib in Mojo.
