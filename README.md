@@ -206,27 +206,12 @@ If you want to contribute, please read [this guide](contributing.md).
 
 ### Networking
 
-* [floki](https://github.com/thatstoasty/floki) - A requests-like HTTP client for Mojo, powered by libcurl.
-
-### Networking
-
 * [mojo-net](https://github.com/nsalerni/mojo-net) - TCP, UDP, DNS, Unix sockets, and readiness polling for Mojo.
-
-### Networking
-
 * [mojo-tls](https://github.com/nsalerni/mojo-tls) - Strict TLS 1.2 and TLS 1.3 streams for Mojo.
-
-### Networking
-
 * [mojo-http2](https://github.com/nsalerni/mojo-http2) - HPACK and HTTP/2 with h2c and TLS transports for Mojo.
-
-### Networking
-
 * [protomojo](https://github.com/nsalerni/protomojo) - Protocol Buffers runtime and protoc plugin for Mojo.
-
-### Networking
-
 * [grpc-mojo](https://github.com/nsalerni/grpc-mojo) - gRPC client and server runtime for Mojo.
+* [floki](https://github.com/thatstoasty/floki) - A requests-like HTTP client for Mojo, powered by libcurl.
 
 ### System
 
@@ -348,7 +333,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Poor persons package management in Mojo](https://mzaks.medium.com/poor-persons-package-management-in-mojo-8671aa6e420a) - By Maxim Zaks.
 * [Mojo Quest](https://quest.mojolang.org/) - Learn Mojo by solving coding challenges at a fictional robotics company.
 
-### Books
+### Books
 
 * [Learn Mojo Programming Language](https://ruhati.net/mojo/) - Free comprehensive book on Mojo with examples and illustrations.
 * [Mojo Miji - A Guide to Mojo Programming Language from A Pythonista's Perspective](https://mojo-lang.com/) - A comprehensive online book on Mojo, written specifically for Pythonistas transitioning to the language.
