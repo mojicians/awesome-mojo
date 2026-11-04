@@ -211,6 +211,10 @@ If you want to contribute, please read [this guide](contributing.md).
 
 * [mojo-net](https://github.com/nsalerni/mojo-net) - TCP, UDP, DNS, Unix sockets, and readiness polling for Mojo.
 
+### Networking
+
+* [mojo-tls](https://github.com/nsalerni/mojo-tls) - Strict TLS 1.2 and TLS 1.3 streams for Mojo.
+
 ### System
 
 * [mojo-stdlib-extensions](https://github.com/gabrieldemarmiesse/mojo-stdlib-extensions) - A replica of Python's stdlib in Mojo.
