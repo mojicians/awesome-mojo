@@ -35,6 +35,7 @@ If you want to contribute, please read [this guide](contributing.md).
   * [System](#system)
   * [Text & Parsing](#text--parsing)
   * [Web](#web)
+  * [Functional Programming](#functional-programming)
 - [Resources](#resources)
   * [Official](#official)
   * [Social Media](#social-media)
@@ -246,6 +247,10 @@ If you want to contribute, please read [this guide](contributing.md).
 * [Jpeg-Decoder](https://github.com/taalhaataahir0102/Jpeg-Decoder) - A compact JPEG image decoder implemented in Mojo🔥.
 * [mimage](https://github.com/fnands/mimage) - An image decoding library implemented in Mojo 🔥.
 * [mojo-image-reader](https://github.com/AlexALX/mojo-image-reader) - A native Mojo 🔥 image reader (JPG, BMP, PNG, GIF) with PPM/PAM/PFM export and Python/NumPy interoperability.
+
+### Functional Programming
+
+* [fp_mojo](https://github.com/Spellbound-Mojo/fp_mojo) - Functional programming inspired by Cats and Cats Effect: fluent pipelines, typed errors, exhaustive pattern matching, and an `IO` runtime with structured concurrency on a work-stealing pool.
 
 ## 📚 Resources<a id='resources'></a>
 
