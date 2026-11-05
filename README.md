@@ -203,6 +203,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [StaMojo](https://github.com/mojomath/stamojo) - A statistical computing library for Mojo, inspired by ``scipy.stats`` and ``statsmodels`` in Python.
 * [dsplib-mojo](https://github.com/electricalgorithm/dsplib-mojo) - A digital signal processing library for Mojo, aiming to be an educational resource.
 * [hackathon-fft](https://github.com/martinvuyk/hackathon-fft) - A portable N-dimensional Fast Fourier Transform implementation for CPUs and GPUs.
+* [apn_mojo](https://github.com/Spellbound-Mojo/apn_mojo) - Arbitrary-precision arithmetic and array programming in pure Mojo: exact integers and fractions, correctly rounded floating-point and complex numbers, interval arithmetic, and multidimensional arrays, with no GMP or MPFR dependency.
 
 ### Networking
 
