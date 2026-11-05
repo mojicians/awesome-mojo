@@ -120,6 +120,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [mojosub](https://github.com/lee101/mojosub) - Compile a subset of Python to Mojo, cache by content hash, and dispatch native kernels from CPython.
 * [mojojojo-compiler](https://github.com/lee101/mojojojo-compiler) - Mojo-native hybrid compiler for arbitrary Python used by the mojojojo runtime.
 * [mojo-factory](https://github.com/lee101/mojo-factory) - Autonomous pipeline that ports Python libraries to Mojo and publishes each port as an open-source `mojo-*` repository.
+* [Mojo Pro](https://plugins.jetbrains.com/plugin/31943-mojo-pro) - Paid JetBrains IDE plugin with Mojo editing, inspections, refactoring, run configurations and LLDB debugging.
 
 ## 🗂️ Libraries<a id='libraries'></a>
 
