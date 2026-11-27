@@ -212,6 +212,7 @@ If you want to contribute, please read [this guide](contributing.md).
 * [protomojo](https://github.com/nsalerni/protomojo) - Protocol Buffers runtime and protoc plugin for Mojo.
 * [grpc-mojo](https://github.com/nsalerni/grpc-mojo) - gRPC client and server runtime for Mojo.
 * [floki](https://github.com/thatstoasty/floki) - A requests-like HTTP client for Mojo, powered by libcurl.
+* [Mojolt](https://github.com/ersh04/mojolt) - A WebSocket library for Mojo with a synchronous client and a multithreaded epoll-based server on Linux.
 
 ### System
 
